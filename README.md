@@ -35,7 +35,7 @@
   <p align="center">
     This is a basic template to integrate tailwindcss with Django instead of using the tailwind cdn, which is not recommended for a production deployment.
     <br />
-    <a href="https://github.com/drobb2020/django-tailwind-template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/drobb2020/django-tailwind-template/wiki"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/drobb2020/django-tailwind-template">View Demo</a>
@@ -312,7 +312,7 @@ Happy coding!
 
 This is intended as starter code for tailwindcss, and not necessarily for Django (although it could be used as Django starter code). I have left this basic enough that you can change any of the names and still end up with a functioning tailwindcss+Django project.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/drobb2020/django-tailwind-template/wiki)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
