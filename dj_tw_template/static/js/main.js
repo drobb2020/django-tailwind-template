@@ -1,0 +1,1 @@
+console.log('Hello template world!')

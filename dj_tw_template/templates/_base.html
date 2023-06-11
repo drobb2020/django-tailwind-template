@@ -1,0 +1,24 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <title>Django + Tailwindcss Template</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="author" content="David Robb" />
+        <meta name="description" content="This is my own attempt to create a tailwind template" />
+        <meta property="og:image" content="./assets/logo.png" />
+        <meta property="og:description" content="This is my own attempt to create a tailwind template" />
+        <meta property="og:title" content="This is my own attempt to create a tailwind template" />
+        <meta name="twitter:title" content="Django + Tailwindcss Template</title>" />
+        <link rel="icon" href="{% static 'assets/favicon.ico' %}" type="image/x-icon">
+        <link rel="stylesheet" href="{% static 'css/custom.min.css' %}" />
+        <script src="{% static 'js/main.js' %}" defer></script>
+    </head>
+    <body>
+        {% include "partials/navbar.html" %}
+        {% block content %}
+
+        {% endblock content %}
+    </body>
+</html>
