@@ -15,10 +15,11 @@
         <link rel="stylesheet" href="{% static 'css/custom.min.css' %}" />
         <script src="{% static 'js/main.js' %}" defer></script>
     </head>
-    <body>
+    <body class="bg-rose-700">
         {% include "partials/navbar.html" %}
         {% block content %}
 
         {% endblock content %}
+        {% include "partials/footer.html" %}
     </body>
 </html>

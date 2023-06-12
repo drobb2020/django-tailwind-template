@@ -78,8 +78,6 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `drobb2020`, `django-tailwind-template`, `twitter_handle`, `linkedin_username`, `email`, `email_client`, `django-tailwind-template`, `project_description`
-
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
@@ -374,4 +372,4 @@ Project Link: [https://github.com/drobb2020/django-tailwind-template](https://gi
 [license-url]: https://github.com/drobb2020/django-tailwind-template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/david-robb-42436a20/
-[product-screenshot]: static/assets/screenshot.png
+[product-screenshot]: dj_tw_template/static/assets/screenshot.png
